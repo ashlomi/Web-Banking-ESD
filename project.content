@@ -1,2 +1,4 @@
+Get-applications\applications.xml
+Get-applications\releases.xml
 Test-Suite-1\Test-Case-1.xml
 Test-Suite-1\Test-Case-2.xml
